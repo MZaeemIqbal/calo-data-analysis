@@ -1,4 +1,4 @@
-# calo data analysis
+# Calo Data Analysis
 This project analyzes payment history logs and generates various reports for accounting purposes. The solution is fully dockerized and can run on any machine without extra configuration.
 
 # Table of Contents
