@@ -50,6 +50,17 @@ Transactions Over Time
 Outliers in Transaction Amounts  
 Subscriber-specific EDA  
 
+## Output Folder Contains  
+ 
+ EDA plots  
+ Overdraft subscribers in a csv file  
+ Preprocessed excel file that contains subscribers details extracted from the zip file  
+ 
+## Time Spent   
+
+Task 1 : 3 hours  
+Task 2 : 12 hours  
+
 ## Future Improvements
 
 Add more EDA plots  
