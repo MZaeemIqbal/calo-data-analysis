@@ -4,7 +4,10 @@ This project analyzes payment history logs and generates various reports for acc
 # Table of Contents
 Overview  
 How to Use  
-Implementation Details  
+Implementation Details 
+EDA Plots  
+Output Folder Contains  
+Time Spent  
 Future Improvements  
 Running the Solution Locally  
 Technologies Used  
