@@ -20,18 +20,18 @@ Pull the Docker Image
 To pull the Docker image from Docker Hub:
 
 ```sh
-docker pull calo_data_analysis:latest
+docker pull zaeemiqbal1/calo_data_analysis:latest
 ```
 Run the Docker Container
 Ensure you are in the directory where you want the output_directory to be created.
 
 On Linux or macOS:
 ```sh
-docker run -v $(pwd)/output_directory:/app/output_directory calo_data_analysis:latest
+docker run -v $(pwd)/output_directory:/app/output_directory zaeemiqbal1/calo_data_analysis:latest
 ```
 On Windows (using Command Prompt or PowerShell):
 ```sh
-docker run -v %cd%/output_directory:/app/output_directory calo_data_analysis:latest
+docker run -v %cd%/output_directory:/app/output_directory zaeemiqbal1/calo_data_analysis:latest
 ```
 ## Implementation Details
 
